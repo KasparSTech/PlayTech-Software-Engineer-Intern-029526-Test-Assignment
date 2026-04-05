@@ -16,5 +16,5 @@ java -jar harness.jar
 
 # Requirements
 
-Java
-Harness folder
+- Java
+- Harness folder
